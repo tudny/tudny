@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Alek and I'm a Computer Science student at University of Warsaw in Poland 🇵🇱. Since primary school programming was my passion and hobby. In free time I like to focus on my private projects and learn new technologies. Java and other object oriented languages are my favourite, but most of my actual axperience ranges from web programming in frameworks such as Django, Angular or Wordpress to back-end libraries written in C or C++. Last year functional programming language named OCaml caused a lot of my attention during University course. Do not be aware to ask me about anything! 
+My name is Alek and I'm a Computer Science student at University of Warsaw in Poland 🇵🇱. Since primary school programming was my passion and hobby. In free time I like to focus on my private projects and learn new technologies. Java and other object oriented languages are my favourite, but most of my actual axperience ranges from web programming in frameworks such as Django, Angular or Wordpress to back-end libraries written in C or C++. Last year functional programming language named OCaml attracted a lot of my attention during University course. Do not be aware to ask me about anything! 
 
 
 <!--
