@@ -15,6 +15,7 @@ My name is **Alek** and I'm a **Computer Science** student at **University of Wa
   - `Django` migration to latest LTS (*2.2.25* -> *3.2*)
   - I introduced **e2e** testing framework `Cypress`
   - Minor bug fixes
+  - Check out [my contributions](https://github.com/sio2project/oioioi/commits?author=tudny)
 
 - During summer 2022 I was an **Software Engineer** intern at **Goldman Sachs** in Risk Division. 
   - Collecting Prometheus metrics, building Grafana dashboards, defining SLOs and alerts for Credit Risk Infrastructure.
