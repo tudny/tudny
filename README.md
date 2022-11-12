@@ -34,7 +34,7 @@ A few courses from my University:
 ### 😄 Pronouns: he/him
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/aleksander-tudruj/)
-- [mail](mailto:aleksanderwt@gmail.com)
+- [mail](mailto:aleksanderwt+github@gmail.com)
 
 *Do not be afraid to ask me about anything!*
 
