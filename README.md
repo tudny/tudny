@@ -22,6 +22,7 @@ My name is **Alek** and I'm a **Computer Science** student at **University of Wa
   - Integrating existing services with **SRE** architecture.
 
 ### 🔭 I’m currently working on ...
+- [**Advent of Code**](https://tudny.com/advent-of-code) - This winter I decided to try Advent of Code using only Rust-lang.
 - [**Kava org**](https://github.com/jaks-mimuw-kava-org/) - I'm a member of **Kava** org which is a group of students from University of Warsaw. We are working on a project which is a `Java framework` for web applications. We create common tools from scratch to learn advanced Java concepts as a part of the academic course. I work personally on **Server Container** and **Logger** module.
 - **Bachelor's Thesis Intern at JetBrains** - Support for `Rust` targets in Build Server for Bazel. Our goal is to integrate [rules_rust](https://github.com/bazelbuild/rules_rust) with [Bazel-BSP](https://github.com/JetBrains/bazel-bsp) and IntelliJ IDEA.
 
