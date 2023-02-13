@@ -3,7 +3,7 @@
 My name is **Alek** and I'm a **Computer Science** student at **University of Warsaw** in Poland 🇵🇱. Since primary school, programming has been my passion and hobby. In my free time, I like to focus on my private projects and learn new technologies. `Java` and other object-oriented languages are my favorite, but most of my current experience ranges from web programming in frameworks such as `Django`, `Angular` or `WordPress` to back-end libraries written in `C` or `C++`. During the first academic year functional programming language named `OCaml` attracted a lot of my attention.
 
 ### 👨‍💻 My experience ...
-- During summer 2022 I was an **Software Engineer** intern at **Goldman Sachs** in Risk Division. 
+- During summer 2022 I was a **Software Engineer** intern at **Goldman Sachs** in Risk Division. 
   - Collecting Prometheus metrics, building Grafana dashboards, defining SLOs and alerts for Credit Risk Infrastructure.
   - Integrating existing services with **SRE** architecture.
 
