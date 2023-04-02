@@ -22,13 +22,16 @@ My name is **Alek** and I'm a **Computer Science** student at **University of Wa
 - In 2016 I was asked to **develop and maintain** my school's webpage. I was using `Wordpress` and `PHP` to meet the expectations. Although the page is deprecated you can still access it at https://gim.staszic.waw.pl/.
 
 ### 🔭 I’m currently working on ...
-- [**Kava org**](https://github.com/jaks-mimuw-kava-org/) - I'm a member of **Kava** org which is a group of students from University of Warsaw. We are working on a project which is a `Java framework` for web applications. We create common tools from scratch to learn advanced Java concepts as a part of the academic course. I work personally on **Server Container** [Arabica](https://github.com/jaks-mimuw-kava-org/Arabica) and **Logger** [Lungo](https://github.com/jaks-mimuw-kava-org/Lungo) module.
+- [**Kava org**](https://github.com/jaks-mimuw-kava-org/) - I'm a member of **Kava** org which is a group of students from University of Warsaw. We are working on a project which is a `Java framework` for web applications. We create common tools from scratch to learn advanced Java concepts as a part of the academic course. I work personally on **Servlet Container** [Arabica](https://github.com/jaks-mimuw-kava-org/Arabica) and **Logger** [Lungo](https://github.com/jaks-mimuw-kava-org/Lungo) module.
 - [**Just Pure 2D Graphics Matrix Display**](https://github.com/mimuw-jnp2-rust/project-matrix-busters/) - Powerful matrix calculator with LaTeX support written in `Rust`.
 - **Bachelor's Thesis Intern at JetBrains** - Support for `Rust` targets in Build Server for Bazel. Our goal is to integrate [rules_rust](https://github.com/bazelbuild/rules_rust) with [Bazel-BSP](https://github.com/JetBrains/bazel-bsp) and IntelliJ IDEA.
+- **Jabba the Lang** - ... 🤫
 
 ### 🌱 I’m currently learning ...
+- **Bazel** - As a part of my Bachelor's Thesis.
 A few courses from my University:
-- **End-of-term examinations** - don't have much time currently 😔
+- **Haskell** - Required to create interpreter of my own programming language. TBA soon... 🤫
+- **Bioinformatics** - One of my non-obligatory lectures at my University.
 
 ### 😄 Pronouns: he/him
 ### 📫 How to reach me
@@ -38,7 +41,7 @@ A few courses from my University:
 *Do not be afraid to ask me about anything!*
 
 ### ⚡ Technologies ...
-- Java, Kotlin, Python, C, C++, OCaml, Rust, Bash, SQL, HTML, CSS, JavaScript, TypeScript
+- Java, Kotlin, Python, C, C++, Haskell, OCaml, Rust, Bash, SQL, HTML, CSS, JavaScript, TypeScript
 - Android, DataBases (Oracle, PostgreSQL, MySQL)
 - Git, SVN, GitHub, Jira, Prometheus, Grafana, Miro, OBS, JetBrains tools, Linux (UNIX) systems, Windows
 
