@@ -29,6 +29,7 @@ My name is **Alek** and I'm a **Computer Science** student at **University of Wa
 
 ### 🌱 I’m currently learning ...
 - **Bazel** - As a part of my Bachelor's Thesis.
+
 A few courses from my University:
 - **Haskell** - Required to create interpreter of my own programming language. TBA soon... 🤫
 - **Bioinformatics** - One of my non-obligatory lectures at my University.
