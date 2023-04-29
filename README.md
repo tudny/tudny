@@ -19,7 +19,7 @@ My name is **Alek** and I'm a **Computer Science** student at **University of Wa
 
 - In 2017 I started to interest in **Olympic programming**. I participated in the Polish Olympiad in Informatics for Junior High Schools and I was able to reach the **final round**. I also participated in Polish Olympiad in Informatics for High Schools, but I lost interest in this competition.
 
-- In 2016 I was asked to **develop and maintain** my school's webpage. I was using `Wordpress` and `PHP` to meet the expectations. Although the page is deprecated you can still access it at https://gim.staszic.waw.pl/.
+- In 2016 I was asked to **develop and maintain** my school's webpage. I was using `Wordpress` and `PHP` to meet the expectations. ~~Although the page is deprecated you can still access it at https://gim.staszic.waw.pl/.~~
 
 ### 🔭 I’m currently working on ...
 - [**Kava org**](https://github.com/jaks-mimuw-kava-org/) - I'm a member of **Kava** org which is a group of students from University of Warsaw. We are working on a project which is a `Java framework` for web applications. We create common tools from scratch to learn advanced Java concepts as a part of the academic course. I work personally on **Servlet Container** [Arabica](https://github.com/jaks-mimuw-kava-org/Arabica) and **Logger** [Lungo](https://github.com/jaks-mimuw-kava-org/Lungo) module.
