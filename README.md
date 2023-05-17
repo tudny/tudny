@@ -24,7 +24,7 @@ My name is **Alek** and I'm a **Computer Science** student at **University of Wa
 ### 🔭 I’m currently working on ...
 - [**Kava org**](https://github.com/jaks-mimuw-kava-org/) - I'm a member of **Kava** org which is a group of students from University of Warsaw. We are working on a project which is a `Java framework` for web applications. We create common tools from scratch to learn advanced Java concepts as a part of the academic course. I work personally on **Servlet Container** [Arabica](https://github.com/jaks-mimuw-kava-org/Arabica) and **Logger** [Lungo](https://github.com/jaks-mimuw-kava-org/Lungo) module.
 - [**Just Pure 2D Graphics Matrix Display**](https://github.com/mimuw-jnp2-rust/project-matrix-busters/) - Powerful matrix calculator with LaTeX support written in `Rust`.
-- **Bachelor's Thesis Intern at JetBrains** - Support for `Rust` targets in Build Server for Bazel. Our goal is to integrate [rules_rust](https://github.com/bazelbuild/rules_rust) with [Bazel-BSP](https://github.com/JetBrains/bazel-bsp) and IntelliJ IDEA.
+- [**Bachelor's Thesis Intern at JetBrains**](https://github.com/zpp-This-is-fine/) - Support for `Rust` targets in Build Server for Bazel. Our goal is to integrate [rules_rust](https://github.com/bazelbuild/rules_rust) with [Bazel-BSP](https://github.com/JetBrains/bazel-bsp) and IntelliJ IDEA.
 - **Jabba the Lang** - ... 🤫
 
 ### 🌱 I’m currently learning ...
