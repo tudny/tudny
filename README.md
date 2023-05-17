@@ -52,6 +52,9 @@ A few courses from my University:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tudny&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+### 🎓 For MIMUW students
+If you are a MIMUW student you may be intered in this repository
+https://github.com/tudny/MIMUW-collection
 <!--
 **tudny/tudny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
