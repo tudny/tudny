@@ -48,8 +48,8 @@ A few courses from my University:
 
 
 ### 🎰 Stats ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudny&theme=transparent&count_private=true&exclude_repo=minix-task-template,SO-FileTrigger,SO-LCA,MIMUW-collection)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tudny&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fork-ashen.vercel.app/api/top-langs/?username=tudny&theme=transparent&count_private=true&exclude_repo=minix-task-template,SO-FileTrigger,SO-LCA,MIMUW-collection)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-fork-ashen.vercel.app/api?username=tudny&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🎓 For MIMUW students
