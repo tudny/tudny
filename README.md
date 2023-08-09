@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Alek** and I'm a **Computer Science** student at **University of Warsaw** in Poland 🇵🇱. Since primary school, programming has been my passion and hobby. In my free time, I like to focus on my private projects and learn new technologies. `Java` and other object-oriented languages are my favorite, but most of my current experience ranges from web programming in frameworks such as `Django`, `Angular` or `WordPress` to back-end libraries written in `C` or `C++`. During the first academic year functional programming language named `OCaml` attracted a lot of my attention.
+My name is **Alek** and I'm a **Computer Science** student at **University of Warsaw** in Poland 🇵🇱 pursuing my Master's degree. Since primary school, programming has been my passion and hobby. In my spare time, I like to focus on my private projects and learn new technologies. I like to think about myself as a full-stack engineer. I have an experience in both creating frontend applications in `Django`, `Angular` or `WordPress`, but also writing libraries and programs in `Java`, `C`, `C++`, `Rust`, `Kotlin`, `Python`, `JS,` `TS`, `Assembly`, `OCaml`, `Haskell` or even `Prolog`. New challenges are my fuel, and I can't wait to solve new problems! 
 
 ### 👨‍💻 My experience ...
 - Starting from summer 2023 I am a **Software Engineer** (Analyst) at **Goldman Sachs** in Risk Division.
@@ -25,6 +25,9 @@ My name is **Alek** and I'm a **Computer Science** student at **University of Wa
 - In 2016 I was asked to **develop and maintain** my school's webpage. I was using `Wordpress` and `PHP` to meet the expectations. ~~Although the page is deprecated you can still access it at https://gim.staszic.waw.pl/.~~
 
 ### 🔭 I’m currently working on ...
+- I'm taking a short summer break after graduation with my Bachelor's Thesis. New projects coming soon! 🤫
+
+### 🔭 A few interesting projects ...
 - [**Kava org**](https://github.com/jaks-mimuw-kava-org/) - I'm a member of **Kava** org which is a group of students from University of Warsaw. We are working on a project which is a `Java framework` for web applications. We create common tools from scratch to learn advanced Java concepts as a part of the academic course. I work personally on **Servlet Container** [Arabica](https://github.com/jaks-mimuw-kava-org/Arabica) and **Logger** [Lungo](https://github.com/jaks-mimuw-kava-org/Lungo) module.
 - [**Just Pure 2D Graphics Matrix Display**](https://github.com/mimuw-jnp2-rust/project-matrix-busters/) - Powerful matrix calculator with LaTeX support written in `Rust`.
 - [**Bachelor's Thesis Intern at JetBrains**](https://github.com/zpp-This-is-fine/) - Support for `Rust` targets in Build Server for Bazel. Our goal is to integrate [rules_rust](https://github.com/bazelbuild/rules_rust) with [Bazel-BSP](https://github.com/JetBrains/bazel-bsp) and IntelliJ IDEA.
@@ -38,6 +41,9 @@ A few courses from my University:
 - **Haskell** - Required to create interpreter of my own programming language. TBA soon... 🤫
 - **Bioinformatics** - One of my non-obligatory lectures at my University.
 -->
+
+### 🌱 I’m currently learning ...
+- How to manage my time and how to be more productive.
 
 ### 😄 Pronouns: he/him
 ### 📫 How to reach me
