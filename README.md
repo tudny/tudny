@@ -2,9 +2,13 @@
 
 My name is **Alek** and I'm a **Computer Science** student at **University of Warsaw** in Poland 🇵🇱 pursuing my Master's degree. Since primary school, programming has been my passion and hobby. In my spare time, I like to focus on my private projects and learn new technologies. I like to think about myself as a full-stack engineer. I have an experience in both creating frontend applications in `Django`, `Angular` or `WordPress`, but also writing libraries and programs in `Java`, `C`, `C++`, `Rust`, `Kotlin`, `Python`, `JS,` `TS`, `Assembly`, `OCaml`, `Haskell` or even `Prolog`. New challenges are my fuel, and I can't wait to solve new problems! 
 
+My area of interest are **numerical methods**, including **numerical analysis** and **computer graphics**. My first numerical algorithms were created using `Matlab`/`Octave`, but currently I work mostly in `Python` (`numpy` / `scikit`) and `C` (for `OpenGL`). I intend to learn `Julia` in the near future.
+
+
 ### 👨‍💻 My experience ...
 - Starting from summer 2023 I am a **Software Engineer** (Analyst) at **Goldman Sachs** in Risk Division.
   - Full stack engineer.
+  - Currently working with cluster computing and big data.
 
 - During summer 2022 I was a **Software Engineer** intern at **Goldman Sachs** in Risk Division. 
   - Collecting Prometheus metrics, building Grafana dashboards, defining SLOs and alerts for Credit Risk Infrastructure.
@@ -25,7 +29,7 @@ My name is **Alek** and I'm a **Computer Science** student at **University of Wa
 - In 2016 I was asked to **develop and maintain** my school's webpage. I was using `Wordpress` and `PHP` to meet the expectations. ~~Although the page is deprecated you can still access it at https://gim.staszic.waw.pl/.~~
 
 ### 🔭 I’m currently working on ...
-- I'm taking a short summer break after graduation with my Bachelor's Thesis. New projects coming soon! 🤫
+- [**Latte**](https://github.com/tudny/MRJP-Latte) - A `llvm`-based compiler for a simple functional programming language written in `Haskell`.
 
 ### 🔭 A few interesting projects ...
 - [**Kava org**](https://github.com/jaks-mimuw-kava-org/) - I'm a member of **Kava** org which is a group of students from University of Warsaw. We are working on a project which is a `Java framework` for web applications. We create common tools from scratch to learn advanced Java concepts as a part of the academic course. I work personally on **Servlet Container** [Arabica](https://github.com/jaks-mimuw-kava-org/Arabica) and **Logger** [Lungo](https://github.com/jaks-mimuw-kava-org/Lungo) module.
@@ -43,7 +47,8 @@ A few courses from my University:
 -->
 
 ### 🌱 I’m currently learning ...
-- How to manage my time and how to be more productive.
+- [**Computer graphics**](https://www.mimuw.edu.pl/%7Eprzemek/notatki.html) - I'm learning how to create 3D scenes using `OpenGL` and `GLSL` as a part of my Master's program.
+- [**Lindenmayer systems**](https://en.wikipedia.org/wiki/L-system) - I'm learning how to create fractals using `L-systems` by leveraging `OpenGL` and `GLSL` as a part of my Master's Thesis.
 
 ### 😄 Pronouns: he/him
 ### 📫 How to reach me
@@ -54,7 +59,7 @@ A few courses from my University:
 
 ### ⚡ Technologies ...
 - Java, Kotlin, Python, C, C++, Haskell, OCaml, Rust, Bash, SQL, HTML, CSS, JavaScript, TypeScript
-- Android, DataBases (Oracle, PostgreSQL, MySQL)
+- Android, DataBases (Oracle, PostgreSQL, MySQL), Spark, HDFS, Docker, Bazel, Maven, Gradle
 - Git, SVN, GitHub, Jira, Prometheus, Grafana, Miro, OBS, JetBrains tools, Linux (UNIX) systems, Windows
 
 
