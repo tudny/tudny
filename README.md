@@ -2,7 +2,7 @@
 
 My name is **Alek** and I'm a **Computer Science** student at **University of Warsaw** in Poland 🇵🇱 pursuing my Master's degree. Since primary school, programming has been my passion and hobby. In my spare time, I like to focus on my private projects and learn new technologies. I like to think about myself as a full-stack engineer. I have an experience in both creating frontend applications in `Django`, `Angular` or `WordPress`, but also writing libraries and programs in `Java`, `C`, `C++`, `Rust`, `Kotlin`, `Python`, `JS,` `TS`, `Assembly`, `OCaml`, `Haskell` or even `Prolog`. New challenges are my fuel, and I can't wait to solve new problems! 
 
-My area of interest are **numerical methods**, including **numerical analysis** and **computer graphics**. My first numerical algorithms were created using `Matlab`/`Octave`, but currently I work mostly in `Python` (`numpy` / `scikit`) and `C` (for `OpenGL`). I intend to learn `Julia` in the near future.
+My area of interest are **numerical methods**, including **numerical analysis** and **computer graphics**. My first numerical algorithms were created using `Matlab`/`Octave`, but currently I work mostly in `Python` (`numpy`/`scikit`) and `C` (for `OpenGL`). I intend to learn `Julia` in the near future.
 
 
 ### 👨‍💻 My experience ...
