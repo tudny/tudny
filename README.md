@@ -29,7 +29,7 @@ My area of interest are **numerical methods**, including **numerical analysis** 
 - In 2016 I was asked to **develop and maintain** my school's webpage. I was using `Wordpress` and `PHP` to meet the expectations. ~~Although the page is deprecated you can still access it at https://gim.staszic.waw.pl/.~~
 
 ### 🔭 I’m currently working on ...
-- [**Latte**](https://github.com/tudny/MRJP-Latte) - A `llvm`-based compiler for a simple functional programming language written in `Haskell`.
+- [**Latte**](https://github.com/tudny/MRJP-Latte) - A `llvm`-based compiler for a simple imperative programming language written in `Haskell`.
 
 ### 🔭 A few interesting projects ...
 - [**Kava org**](https://github.com/jaks-mimuw-kava-org/) - I'm a member of **Kava** org which is a group of students from University of Warsaw. We are working on a project which is a `Java framework` for web applications. We create common tools from scratch to learn advanced Java concepts as a part of the academic course. I work personally on **Servlet Container** [Arabica](https://github.com/jaks-mimuw-kava-org/Arabica) and **Logger** [Lungo](https://github.com/jaks-mimuw-kava-org/Lungo) module.
