@@ -7,8 +7,8 @@ My area of interest are **numerical methods**, including **numerical analysis** 
 
 ### 👨‍💻 My experience ...
 - Starting from summer 2023 I am a **Software Engineer** (Analyst) at **Goldman Sachs** in Risk Division.
-  - Full stack engineer.
-  - Currently working with cluster computing and big data.
+  - Full stack engineer - `Java` / `React`
+  - Worked with cluster computing and big data.
 
 - During summer 2022 I was a **Software Engineer** intern at **Goldman Sachs** in Risk Division. 
   - Collecting Prometheus metrics, building Grafana dashboards, defining SLOs and alerts for Credit Risk Infrastructure.
@@ -29,13 +29,14 @@ My area of interest are **numerical methods**, including **numerical analysis** 
 - In 2016 I was asked to **develop and maintain** my school's webpage. I was using `Wordpress` and `PHP` to meet the expectations. ~~Although the page is deprecated you can still access it at https://gim.staszic.waw.pl/.~~
 
 ### 🔭 I’m currently working on ...
-- [**Latte**](https://github.com/tudny/MRJP-Latte) - A `llvm`-based compiler for a simple imperative programming language written in `Haskell`.
+- [**Master's thesis**](/) - Lindenmayer systems, Computer Graphics and Parallel Computing. TBA...
 
 ### 🔭 A few interesting projects ...
 - [**Kava org**](https://github.com/jaks-mimuw-kava-org/) - I'm a member of **Kava** org which is a group of students from University of Warsaw. We are working on a project which is a `Java framework` for web applications. We create common tools from scratch to learn advanced Java concepts as a part of the academic course. I work personally on **Servlet Container** [Arabica](https://github.com/jaks-mimuw-kava-org/Arabica) and **Logger** [Lungo](https://github.com/jaks-mimuw-kava-org/Lungo) module.
 - [**Just Pure 2D Graphics Matrix Display**](https://github.com/mimuw-jnp2-rust/project-matrix-busters/) - Powerful matrix calculator with LaTeX support written in `Rust`.
 - [**Bachelor's Thesis Intern at JetBrains**](https://github.com/zpp-This-is-fine/) - Support for `Rust` targets in Build Server for Bazel. Our goal is to integrate [rules_rust](https://github.com/bazelbuild/rules_rust) with [Bazel-BSP](https://github.com/JetBrains/bazel-bsp) and IntelliJ IDEA.
 - [**Jabba the Lang**](https://github.com/tudny/JPP-interpreter) - Interpreted imperative programming language written in `Haskell`.
+- [**Latte**](https://github.com/tudny/MRJP-Latte) - A `llvm`-based compiler for a simple imperative programming language written in `Haskell`.
 
 <!--
 ### 🌱 I’m currently learning ...
@@ -49,6 +50,8 @@ A few courses from my University:
 ### 🌱 I’m currently learning ...
 - [**Computer graphics**](https://www.mimuw.edu.pl/%7Eprzemek/notatki.html) - I'm learning how to create 3D scenes using `OpenGL` and `GLSL` as a part of my Master's program.
 - [**Lindenmayer systems**](https://en.wikipedia.org/wiki/L-system) - I'm learning how to create fractals using `L-systems` by leveraging `OpenGL` and `GLSL` as a part of my Master's Thesis.
+- [**HPC**](https://en.wikipedia.org/wiki/High-performance_computing) - I'm taking part in HPC class during my Master's studies. Working both with `CUDA` (shared memory model) and `MPI` (latency-bandwidth model).
+- [**Big Data**](https://i.imgflip.com/nt8op.jpg) - I'm taking part in Big Data class during my Master's studies. It involves `Spark`, `HDFS` and lot's of theory.
 
 ### 😄 Pronouns: he/him
 ### 📫 How to reach me
@@ -58,8 +61,8 @@ A few courses from my University:
 *Do not be afraid to ask me about anything!*
 
 ### ⚡ Technologies ...
-- Java, Kotlin, Python, C, C++, Haskell, OCaml, Rust, Bash, SQL, HTML, CSS, JavaScript, TypeScript
-- Android, DataBases (Oracle, PostgreSQL, MySQL), Spark, HDFS, Docker, Bazel, Maven, Gradle
+- Java, Kotlin, Python, C, C++, Haskell, OCaml, Rust, Bash, SQL, HTML, CSS, JavaScript, TypeScript, CUDA
+- Android, DataBases (Oracle, PostgreSQL, MySQL), Spark, HDFS, Docker, Bazel, Maven, Gradle, Spark, HDFS, GCloud compute, MPI
 - Git, SVN, GitHub, Jira, Prometheus, Grafana, Miro, OBS, JetBrains tools, Linux (UNIX) systems, Windows
 
 
