@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Alek** and I'm a **Computer Science** student at **University of Warsaw** in Poland 🇵🇱 pursuing my Master's degree. Since primary school, programming has been my passion and hobby. In my spare time, I like to focus on my private projects and learn new technologies. I like to think about myself as a full-stack engineer. I have an experience in both creating frontend applications in `Django`, `Angular` or `WordPress`, but also writing libraries and programs in `Java`, `C`, `C++`, `Rust`, `Kotlin`, `Python`, `JS,` `TS`, `Assembly`, `OCaml`, `Haskell` or even `Prolog`. New challenges are my fuel, and I can't wait to solve new problems! 
+My name is **Alek** and I'm a **Computer Science** student at **University of Warsaw** in Poland 🇵🇱 pursuing my Master's degree. Since primary school, programming has been my passion and hobby. In my spare time, I like to focus on my private projects and learn new technologies. I like to think about myself as a full-stack engineer. I have an experience in both creating frontend applications in `Django`, `Angular` or `WordPress`, but also writing libraries and programs in `Java`, `C`, `C++`, `Rust`, `Kotlin`, `Python`, `JS,` `TS`, `Assembly`, `OCaml`, `Haskell` or even `Prolog`. New challenges are my fuel, and I can't wait to solve new problems!
 
 My area of interest are **numerical methods**, including **numerical analysis** and **computer graphics**. My first numerical algorithms were created using `Matlab`/`Octave`, but currently I work mostly in `Python` (`numpy`/`scikit`) and `C` (for `OpenGL`). I intend to learn `Julia` in the near future.
 
@@ -10,7 +10,7 @@ My area of interest are **numerical methods**, including **numerical analysis** 
   - Full stack engineer - `Java` / `React`
   - Worked with cluster computing and big data.
 
-- During summer 2022 I was a **Software Engineer** intern at **Goldman Sachs** in Risk Division. 
+- During summer 2022 I was a **Software Engineer** intern at **Goldman Sachs** in Risk Division.
   - Collecting Prometheus metrics, building Grafana dashboards, defining SLOs and alerts for Credit Risk Infrastructure.
   - Integrating existing services with **SRE** architecture.
 
@@ -22,7 +22,7 @@ My area of interest are **numerical methods**, including **numerical analysis** 
   - Minor bug fixes
   - Check out [my contributions](https://github.com/sio2project/oioioi/commits?author=tudny)
 
-- For three years I was a participant of [Summer IT Workshops](https://wwi.staszic.waw.pl/) organized by my High School. We were solving **programming problems** and learning new **algorithms** and **data structures**. All the problems were solved using `C/C++` code and `Bash` scripts. 
+- For three years I was a participant of [Summer IT Workshops](https://wwi.staszic.waw.pl/) organized by my High School. We were solving **programming problems** and learning new **algorithms** and **data structures**. All the problems were solved using `C/C++` code and `Bash` scripts.
 
 - In 2017 I started to interest in **Olympic programming**. I participated in the Polish Olympiad in Informatics for Junior High Schools and I was able to reach the **final round**. I also participated in Polish Olympiad in Informatics for High Schools, but I lost interest in this competition.
 
@@ -64,12 +64,6 @@ A few courses from my University:
 - Java, Kotlin, Python, C, C++, Haskell, OCaml, Rust, Bash, SQL, HTML, CSS, JavaScript, TypeScript, CUDA
 - Android, DataBases (Oracle, PostgreSQL, MySQL), Spark, HDFS, Docker, Bazel, Maven, Gradle, Spark, HDFS, GCloud compute, MPI
 - Git, SVN, GitHub, Jira, Prometheus, Grafana, Miro, OBS, JetBrains tools, Linux (UNIX) systems, Windows
-
-
-### 🎰 Stats ...
-[![Top Langs](https://github-readme-stats-fork-ashen.vercel.app/api/top-langs/?username=tudny&theme=transparent&count_private=true&exclude_repo=minix-task-template,SO-FileTrigger,SO-LCA,MIMUW-collection)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats-fork-ashen.vercel.app/api?username=tudny&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### 🎓 For MIMUW students
 If you are a MIMUW student you may be intered in this repository
