@@ -6,7 +6,7 @@ My area of interest are **numerical methods**, including **numerical analysis** 
 
 
 ### 👨‍💻 My experience ...
-- In October 2025 I joined **RTB House**, Core Engineering team as a distributed software engineer.
+- In October 2025 I joined **RTB House**, Core Engineering team as a distributed systems engineer.
 
 - Starting from summer 2023 I was a **Software Engineer** (Analyst) at **Goldman Sachs** in Risk Division until September 2025.
   - Full stack engineer - `Java` / `React`
