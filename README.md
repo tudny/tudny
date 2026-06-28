@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-My name is **Alek** and I'm a **Computer Science** student at **University of Warsaw** in Poland 🇵🇱 pursuing my Master's degree. Since primary school, programming has been my passion and hobby. In my spare time, I like to focus on my private projects and learn new technologies. I like to think about myself as a full-stack engineer. I have an experience in both creating frontend applications in `Django`, `Angular` or `WordPress`, but also writing libraries and programs in `Java`, `C`, `C++`, `Rust`, `Kotlin`, `Python`, `JS,` `TS`, `Assembly`, `OCaml`, `Haskell` or even `Prolog`. New challenges are my fuel, and I can't wait to solve new problems!
+My name is **Alek** and I graduated in **Computer Science** from the **University of Warsaw** in Poland 🇵🇱. Since primary school, programming has been my passion and hobby. In my spare time, I like to focus on my private projects and learn new technologies. I like to think about myself as a full-stack engineer. I have experience in both creating frontend applications in `Django`, `Angular` or `WordPress`, and writing libraries and programs in `Java`, `C`, `C++`, `Rust`, `Kotlin`, `Python`, `JS`, `TS`, `Assembly`, `OCaml`, `Haskell` or even `Prolog`. New challenges are my fuel, and I can't wait to solve new problems!
 
-My area of interest are **numerical methods**, including **numerical analysis** and **computer graphics**. My first numerical algorithms were created using `Matlab`/`Octave`, but currently I work mostly in `Python` (`numpy`/`scikit`) and `C` (for `OpenGL`). I intend to learn `Julia` in the near future.
+My hobby area of interest is **numerical methods**, including **numerical analysis** and **computer graphics**. My first numerical algorithms were created using `Matlab`/`Octave`, and I now work with them mostly in `Python` (`numpy`/`scikit`) and `C` (for `OpenGL`).
 
+At work, I focus on **distributed systems** as part of the Core Engineering team at **RTB House**.
 
 ### 👨‍💻 My experience ...
-- In October 2025 I joined **RTB House**, Core Engineering team as a distributed systems engineer.
+
+- In October 2025 I joined **RTB House**, Core Engineering team as a Distributed Systems Engineer.
 
 - Starting from summer 2023 I was a **Software Engineer** (Analyst) at **Goldman Sachs** in Risk Division until September 2025.
   - Full stack engineer - `Java` / `React`
@@ -30,8 +32,8 @@ My area of interest are **numerical methods**, including **numerical analysis** 
 
 - In 2016 I was asked to **develop and maintain** my school's webpage. I was using `Wordpress` and `PHP` to meet the expectations. ~~Although the page is deprecated you can still access it at https://gim.staszic.waw.pl/.~~
 
-### 🔭 I’m currently working on ...
-- [**Master's thesis**](https://apd.uw.edu.pl/diplomas/236202/) - Lindenmayer systems, Computer Graphics and Parallel Computing. TBA...
+### 🎓 Academic background
+- [**Master's thesis**](https://apd.uw.edu.pl/diplomas/236202/) - Lindenmayer systems, Computer Graphics and Parallel Computing.
 
 ### 🔭 A few interesting projects ...
 - [**Kava org**](https://github.com/jaks-mimuw-kava-org/) - I'm a member of **Kava** org which is a group of students from University of Warsaw. We are working on a project which is a `Java framework` for web applications. We create common tools from scratch to learn advanced Java concepts as a part of the academic course. I work personally on **Servlet Container** [Arabica](https://github.com/jaks-mimuw-kava-org/Arabica) and **Logger** [Lungo](https://github.com/jaks-mimuw-kava-org/Lungo) module.
@@ -49,11 +51,11 @@ A few courses from my University:
 - **Bioinformatics** - One of my non-obligatory lectures at my University.
 -->
 
-### 🌱 I’m currently learning ...
-- [**Computer graphics**](https://www.mimuw.edu.pl/%7Eprzemek/notatki.html) - I'm learning how to create 3D scenes using `OpenGL` and `GLSL` as a part of my Master's program.
-- [**Lindenmayer systems**](https://en.wikipedia.org/wiki/L-system) - I'm learning how to create fractals using `L-systems` by leveraging `OpenGL` and `GLSL` as a part of my Master's Thesis.
-- [**HPC**](https://en.wikipedia.org/wiki/High-performance_computing) - I'm taking part in HPC class during my Master's studies. Working both with `CUDA` (shared memory model) and `MPI` (latency-bandwidth model).
-- [**Big Data**](https://i.imgflip.com/nt8op.jpg) - I'm taking part in Big Data class during my Master's studies. It involves `Spark`, `HDFS` and lot's of theory.
+### 📚 Academic topics I explored
+- [**Computer graphics**](https://www.mimuw.edu.pl/%7Eprzemek/notatki.html) - 3D scenes with `OpenGL` and `GLSL`.
+- [**Lindenmayer systems**](https://en.wikipedia.org/wiki/L-system) - fractal generation with `L-systems`.
+- [**HPC**](https://en.wikipedia.org/wiki/High-performance_computing) - projects with `CUDA` (shared memory model) and `MPI` (latency-bandwidth model).
+- [**Big Data**](https://i.imgflip.com/nt8op.jpg) - `Spark`, `HDFS` and distributed data processing theory.
 
 ### 😄 Pronouns: he/him
 ### 📫 How to reach me
